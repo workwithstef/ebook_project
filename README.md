@@ -3,13 +3,13 @@
 
 
 #### Forms
-<form> - defines a form
+'<form>' - defines a form
 
-<form> inputs:
-- <label>
-- <input>
+'<form>' inputs:
+- '<label>'
+- '<input>'
 
-<input> types:
+'<input>' types:
 - text
 - radio
 - submit
